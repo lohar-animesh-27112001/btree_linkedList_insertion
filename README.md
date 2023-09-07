@@ -1,2 +1,2 @@
 # btree_linkedList_insertion
-I have created an algorithm in which insertion of Binary Tree of any data-type time complexity will be O(log n)
+Introducing my breakthrough algorithm! Achieving O(log n) insertion time complexity for Binary Trees of any data type
