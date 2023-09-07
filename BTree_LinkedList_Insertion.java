@@ -1,7 +1,4 @@
 // I have created an algorithm in which insertion of Binary Tree of any data-type time complexity will be O(log n)
-
-// I have created an algorithm in which insertion of Binary Tree of any data-type time complexity will be O(log n)
-
 class Binary_Node {
 
 	public String value;
